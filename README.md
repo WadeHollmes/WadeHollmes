@@ -4,7 +4,6 @@ Sou estudante de Ciência de Dados com forte interesse em Engenharia de Dados, M
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente desenvolvendo um simulador de órbitas planetárias inspirado no filme Interestelar.
 - 🌱 Aprofundando meus estudos em **Python** e no ecossistema de dados.
 - 🐧 Usuário diário de Linux (**Ubuntu**).
 - 🧠 Utilizo **Obsidian integrado com Git** como meu "segundo cérebro" para anotações e organização.
@@ -16,13 +15,6 @@ Sou estudante de Ciência de Dados com forte interesse em Engenharia de Dados, M
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
-
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=wadehollmes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadehollmes&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## 📈 O que busco
